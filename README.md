@@ -1,4 +1,4 @@
-An app built for my mom (who refuses to get social media), to view family social media accounts.
+A React app built for my mom (who refuses to get social media), to view family social media accounts.
 
 Up and running:
 'npm install'
